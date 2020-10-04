@@ -1,4 +1,4 @@
-package Filosofos;
+package filosofos;
 
 public class Garfo {
 	private int idGarfo;

@@ -1,4 +1,4 @@
-package Filosofos;
+package filosofos;
 
 import java.util.List;
 
